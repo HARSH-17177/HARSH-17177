@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">👀 I’m interested in Flutter Developemnt</h3>
 <h3 align="center">🌱 I’m currently learning Devops</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83705750/230177320-3facb90f-d9bb-49df-bf93-7416146397e3.png">
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/83705750/230177320-3facb90f-d9bb-49df-bf93-7416146397e3.png"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-17177&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-17177" /> </p>
