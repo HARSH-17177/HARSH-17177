@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
-<h3 align="center">Devops and Flutter</h3>
+<h3 align="center">DevOps and Flutter developer passionate about creating efficient and user-friendly software solutions.</h3>
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
