@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=harsh-17177&count_private=true&theme=tokyonight&showicons=true" alt="harsh-17177"  width="495"/></p>
 
-<br>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-17177&theme=dark" alt="harsh-17177" /></p>
