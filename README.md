@@ -49,16 +49,23 @@ I am a passionate **Associate DevOps Engineer** at Eurofins with a knack for bui
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-17177&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-17177&theme=tokyonight&hide_border=true" alt="Streak" height="180em" />
+<a href="https://github.com/harsh-17177">
+    <img src="https://github-readme-stats.vercel.app/api?username=harsh-17177&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Harsh's Stats" height="195" />
+  </a>
+  <a href="https://github.com/harsh-17177">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-17177&theme=tokyonight&hide_border=true" alt="Harsh's Streak" height="195" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-17177&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="165em" />
+  <a href="https://github.com/harsh-17177">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-17177&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  </a>
 </div>
 
 ---
