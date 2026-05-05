@@ -75,7 +75,7 @@ I am a passionate **Associate DevOps Engineer** at Eurofins with a knack for bui
   <a href="https://www.linkedin.com/in/harsh-gupta-589916216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/harsh3101gupta" target="_blank">
+  <a href="https://instagram.com/harshg01" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
